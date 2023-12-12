@@ -12,10 +12,10 @@ To create a user-friendly, efficient, and versatile Python interface for the Sto
 
 ## Installation
 
-To install this tool, clone the repository or download the source code:
+To install this tool:
 
 ```bash
-git clone https://github.com/yourusername/your-repository-name.git
+pip install -i https://test.pypi.org/simple/ stockpulsepy-client
 ```
 
 ## Dependencies
@@ -34,9 +34,4 @@ pip install pandas requests matplotlib seaborn
 ```
 
 ## Contributing
-
-Contributions are welcome! If you would like to contribute to this project, please read the `CONTRIBUTING.md` file for details on our code of conduct, and the process for submitting pull requests.
-
-## License
-
-This project is licensed under the MIT License. For more details, see the `LICENSE` file in this repository.
+This project provides investors with a convenient way and a comprehensive perspective to decide whether to continue to hold positions or sell a company's stocks, and adds ESG score-level analysis, which can help investors consider the risks and risks of the company in their decision-making. Sustainable development factors provide investors with a more comprehensive approach to stock analysis.
