@@ -7,6 +7,7 @@ To create a user-friendly, efficient, and versatile Python interface for the Sto
 - **Stock Data Retrieval**: Access real-time stock data from the market API.
 - **ESG Score Analysis**: Obtain the ESG scores of three companies at the same time and conduct visualization and comparative analysis..
 - **Search Functionality**: Search the stock market for relevant stocks and news and return a clear dataframe.
+- **Analytic Functionality**: Get analytics result about a specific company, which can help users choose to hold a position or sell stock or buy stock (very important!!).
 - **Data Visualization**: Visualize data using Matplotlib and Seaborn for better insights.
 
 ## Installation
