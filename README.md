@@ -15,6 +15,7 @@ To install this tool, clone the repository or download the source code:
 
 ```bash
 git clone https://github.com/yourusername/your-repository-name.git
+```
 
 ## Dependencies
 
@@ -29,6 +30,7 @@ Make sure these are installed in your environment. You can install them using pi
 
 ```bash
 pip install pandas requests matplotlib seaborn
+```
 
 ## Contributing
 
